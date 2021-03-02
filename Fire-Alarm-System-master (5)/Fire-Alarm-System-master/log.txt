@@ -1,0 +1,36 @@
+FIRST FLOOR   Smoke Sensor id is 
+ CO Sensor id is   1
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 0.0
+ Heat Sensor threshold not reached and value is 0.0
+ Smole Sensor threshold reached and value is 29.68
+Moderate
+_________
+FIRST FLOOR   Smoke Sensor id is 
+ CO Sensor id is   1
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 0.0
+ Heat Sensor threshold not reached and value is 0.0
+ Smole Sensor threshold reached and value is 17.04
+Moderate
+_________
+FIRST FLOOR   Smoke Sensor id is 
+ CO Sensor id is   1
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 0.0
+ Heat Sensor threshold not reached and value is 0.0
+ Smole Sensor threshold reached and value is 18.64
+Moderate
+_________
+FIRST FLOOR   Smoke Sensor id is 
+ CO Sensor id is   1
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 0.0
+ Heat Sensor threshold not reached and value is 0.0
+ Smole Sensor threshold reached and value is 28.58
+Moderate
+_________
